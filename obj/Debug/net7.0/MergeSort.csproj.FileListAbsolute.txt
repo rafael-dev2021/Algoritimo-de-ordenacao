@@ -1,0 +1,15 @@
+D:\Exercicios c#\MergeSort\bin\Debug\net7.0\MergeSort.exe
+D:\Exercicios c#\MergeSort\bin\Debug\net7.0\MergeSort.deps.json
+D:\Exercicios c#\MergeSort\bin\Debug\net7.0\MergeSort.runtimeconfig.json
+D:\Exercicios c#\MergeSort\bin\Debug\net7.0\MergeSort.dll
+D:\Exercicios c#\MergeSort\bin\Debug\net7.0\MergeSort.pdb
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.csproj.AssemblyReference.cache
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfoInputs.cache
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfo.cs
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.dll
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\refint\MergeSort.dll
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.pdb
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\MergeSort.genruntimeconfig.cache
+D:\Exercicios c#\MergeSort\obj\Debug\net7.0\ref\MergeSort.dll
